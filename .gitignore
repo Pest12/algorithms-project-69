@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+dist/
+build/
+main.py
+
+# Virtual Environments
+venv/
+.venv/
+lib/
+bin/
+.python-version
+
+# Testing & Coverage
+.coverage
+coverage.xml
+.pytest_cache
+.ruff_cache
+.mypy_cache
+
+# Project-specific
+.env
